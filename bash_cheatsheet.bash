@@ -1,4 +1,4 @@
-## Bash cheatsheet
+## Bash cheatsheet test
 
 
 # From inside a bash script get hold of the absolute path to the script
